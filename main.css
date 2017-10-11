@@ -1,5 +1,5 @@
 div {
-  border: 20px solid #000; /* this is short hand for setting 
+  border: 20px solid #000; /* this is short hand for setting
                             the border's width, its type, and color */
   display: inline-block; /* a way of positioning elements */
   min-width: 20em; /* the two min styles make the shape */
@@ -11,11 +11,11 @@ div {
 }
 
 #red {
-  border-top-color: #f00; 
+  border-top-color: #f00;
 }
 
 #orange {
-  border-top-color: #f00; 
+  border-top-color: #f00;
 }
 
 #yellow {
@@ -37,5 +37,3 @@ div {
 #violet {
   border-top-color: #d300c9;
 }
-
-Red: #f00; Orange: #ffa500; Yellow: #ff0; Green: #00bc3f; Blue: #06f; Indigo: #8a2be2; Violet: #d300c9
